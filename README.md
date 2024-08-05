@@ -1,6 +1,5 @@
 # Pix2Path
 
-# SCS
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Pix2Path (Pixel-level spatial transcriptomics to digital pathology) is a method that utilizes high-resolution spatial transcriptomic data to map potential disease progression and predict the effects of individual genes.
