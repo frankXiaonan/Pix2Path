@@ -26,23 +26,23 @@ The software has been tested on the CentOS Linux 7 system.
 ### Installation
 pip install -r requirements.txt
 
-## Usage - how to run predictor
+### Usage - how to run predictor
 cd src
 python3 ad_pathology_predictor.py
 
-## Output
+### Output
 /images: images of plt.show()
 /data: datasets
 /src: source files
 /logs: checkpoints of model training
 
-# Manually Load Checkpoints an display in Tensor Board
+### Manually Load Checkpoints an display in Tensor Board
 tensorboard --logdir logs/fit
 
-## Contact
+### Contact
 Contact us if you have any questions:</br>
 Xiaonan Fu and Yan Chen: xnfu at uw.edu</br>
 
 
-## License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
