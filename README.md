@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Pix2Path (Pixel-level spatial transcriptomics to digital pathology) is a method that utilizes high-resolution spatial transcriptomic data to map potential disease progression and predict the effects of individual genes.
+bioRxiv: https://biorxiv.org/cgi/content/short/2024.08.18.608468v1
 
 <p align="center">
   <img src="/docs/Pix2Path.png" width="100%"/>
