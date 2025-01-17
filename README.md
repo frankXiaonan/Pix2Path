@@ -42,7 +42,6 @@ tensorboard --logdir logs/fit
 
 ### Contact
 Contact us if you have any questions:</br>
-Xiaonan Fu and Yan Chen: xnfu at uw.edu</br>
 
 
 ### License
